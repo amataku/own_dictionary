@@ -1,7 +1,5 @@
 Rails.application.routes.draw do
   get 'words/index'
-  get 'words/new'
-  post 'words' => "words#create"
 
   get 'words/show/:alphabet' => 'words#show'
 

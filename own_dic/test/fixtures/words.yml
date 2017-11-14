@@ -2,14 +2,12 @@
 
 one:
   name: MyString
-  reading: MyString
   alphabet: MyString
+  reading: MyString
   mean: MyText
-  genre: MyString
 
 two:
   name: MyString
-  reading: MyString
   alphabet: MyString
+  reading: MyString
   mean: MyText
-  genre: MyString

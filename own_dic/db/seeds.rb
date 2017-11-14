@@ -11,7 +11,6 @@
 @word.alphabet = 'helloworld'
 @word.reading = 'ハローワールド'
 @word.mean = 'プログラマー最初の課題'
-@word.genre = 'sentence'
 @word.save
 
 @word = Word.new
@@ -19,5 +18,4 @@
 @word.alphabet = 'hoge'
 @word.reading = 'ホゲ'
 @word.mean = '適当な変数名'
-@word.genre = 'meta'
 @word.save
