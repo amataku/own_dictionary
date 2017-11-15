@@ -1,3 +1,3 @@
 # own_dictionary
-* 自分のための辞書が作れるアプリ
-* webアプリ
+* 自分の辞書が作れるwebアプリ
+* rails,Databaseの練習用

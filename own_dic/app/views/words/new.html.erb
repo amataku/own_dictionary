@@ -1,0 +1,13 @@
+<%= form_for Word.new do |f| %>
+  <p><%= f.label :単語 %>
+  <%= f.text_field :name %>
+  <%= f.label :english %>
+  <%= f.text_field :alphabet %>
+  <%= f.label :ヨミ %>
+  <%= f.text_field :reading %>
+  <%= f.label :genre %>
+  <%= f.text_field :genre %></p>
+  <p><%= f.label :mean %>
+  <%= f.text_area :mean %></p>
+  <p><%= f.submit %></p>
+<% end %>
